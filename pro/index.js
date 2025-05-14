@@ -1,16 +1,11 @@
 
 const x=10
+let arr=[a,b]
+const x=50
      questions=[
       {
         answers: [
-          {
-            answer: "Hyperlinks and Text Markup Language",
-            key: "A1"
-          },
-          {
-            answer: "Hyper Text Markup Language",
-            key: "A2"
-          },
+           
           {
             answer: "Home Tool Markup Language",
             key: "A3"
