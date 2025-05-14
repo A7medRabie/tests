@@ -1,4 +1,5 @@
 
+const x=10
      questions=[
       {
         answers: [
